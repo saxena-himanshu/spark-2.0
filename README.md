@@ -1,4 +1,4 @@
 Spark2.0
-#Run
+#Run this project
 
-sbr run
+sbt run
