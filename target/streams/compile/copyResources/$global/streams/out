@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/himanshu/Extra/SPARK_Gihub_Pro/Akshay_Spark_2.0/spark2.0/src/main/resources/MixData.csv,/home/himanshu/Extra/SPARK_Gihub_Pro/Akshay_Spark_2.0/spark2.0/target/scala-2.10/classes/MixData.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/himanshu/Extra/SPARK_Gihub_Pro/Akshay_Spark_2.0/spark2.0/src/main/resources/mariadata_200.csv,/home/himanshu/Extra/SPARK_Gihub_Pro/Akshay_Spark_2.0/spark2.0/target/scala-2.10/classes/mariadata_200.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/himanshu/Extra/SPARK_Gihub_Pro/Akshay_Spark_2.0/spark2.0/src/main/resources/log4j.properties,/home/himanshu/Extra/SPARK_Gihub_Pro/Akshay_Spark_2.0/spark2.0/target/scala-2.10/classes/log4j.properties)[0m
